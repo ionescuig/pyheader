@@ -1,5 +1,5 @@
 # pyheader
-## Creates a header for python scripts
+### Creates a header for python scripts
 
 <i>pyheader.py</i> needs to be copied to your current working directory.
 
