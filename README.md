@@ -15,10 +15,10 @@
 
 This script is build for windows and linux.  
 For windows there are 4 editors avaible:
-- IDLE
-- Notepad++
-- PyCharm
-- Atom
+1. IDLE
+2. Notepad++
+3. PyCharm
+4. Atom
 
 For linux there are 3 editors avaible:
  * vim
