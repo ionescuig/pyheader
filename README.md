@@ -1,6 +1,18 @@
 # pyheader
 ### Creates a header for python scripts
 
+```
+#!/usr/bin/env python
+# title           :pyheader.py
+# description     :This will create a header for a python script.
+# author          :Gabriel Ionescu
+# date            :2017/09/21
+# version         :1.1.0
+# notes           :
+# python_version  :3.6
+# ==============================================================================
+```
+
 This script is build for windows and linux.  
 For windows there are 4 editors avaible: IDLE, Notepad++, PyCharm, Atom.
 For linux there are 3 editors avaible: vim, gedit, nano.
