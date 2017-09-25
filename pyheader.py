@@ -89,8 +89,9 @@ def select_editor():
         while True:
             print('Please select your prefered editor:\n')
             print('1. IDLE')
-            print('2. PyCharm')
-            print('3. Atom')
+            print('2. Notepad++')
+            print('3. PyCharm')
+            print('4. Atom')
             print('0. exit')
             option = input()
             if option == '1':
@@ -98,10 +99,14 @@ def select_editor():
                           + path + '\\' + title)
                 exit()
             elif option == '2':
-                os.system(r'C:\Program Files\JetBrains\PyCharm Community Edition 2017.2.1\bin\pycharm '
+                os.system('START notepad++ '
                           + path + '\\' + title)
                 exit()
             elif option == '3':
+                os.system(r'"C:\Program Files\JetBrains\PyCharm Community Edition 2017.2.1\bin\pycharm64.exe" '
+                          + path + '\\' + title)
+                exit()
+            elif option == '4':
                 os.system(r'C:\Users\iones\AppData\Local\atom\atom.exe '
                           + path + '\\' + title)
                 exit()
