@@ -3,7 +3,7 @@
 # description     :This will create a header for a python script.
 # author          :Gabriel Ionescu
 # date            :2017/09/21
-# version         :1.1.0
+# version         :1.1.2
 # notes           :
 # python_version  :3.6
 # ==============================================================================
