@@ -4,7 +4,7 @@
 # author          :Gabriel Ionescu
 # date            :2017/09/21
 # version         :1.1.0
-# notes           :pycharm is not starting
+# notes           :
 # python_version  :3.6
 # ==============================================================================
 
