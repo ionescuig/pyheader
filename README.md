@@ -1,7 +1,7 @@
 # pyheader
 <b>Creates a header for python scripts</b>
 
-pyheader.py needs to be copied to your current working directory.
+<i>pyheader.py</i> needs to be copied to your current working directory.
 
 This script is build for windows and linux.
 For windows there are 3 editors avaible: IDLE, PyCharm (not working yet), Atom.
