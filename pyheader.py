@@ -70,7 +70,6 @@ def main():
     filename.write('\n# author         :' + name)
     filename.write('\n# date           :' + date)
     filename.write('\n# version        :' + ver)
-    filename.write('\n# usage          :' + 'python ' + title)
     filename.write('\n# notes          :')
     filename.write('\n# python_version :' + python_ver)
     filename.write('\n# ' + div * 2 + '\n')
