@@ -1,6 +1,8 @@
 # pyheader
 Creates a header for python scripts
 
+pyheader.py needs to be copied to your current working directory.
+
 This script is build for windows and linux.
 For windows there are 3 editors avaible: IDLE, PyCharm (not working yet), Atom.
 For linux there are 3 editors avaible: vim, gedit, nano.
